@@ -1,0 +1,9 @@
+[submodule "tinycrypt"]
+	path = tinycrypt
+	url = https://github.com/intel/tinycrypt.git
+[submodule "QCBOR"]
+	path = QCBOR
+	url = https://github.com/laurencelundblade/QCBOR.git
+[submodule "t_cose"]
+	path = t_cose
+	url = https://github.com/laurencelundblade/t_cose.git
